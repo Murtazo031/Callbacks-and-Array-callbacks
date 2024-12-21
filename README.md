@@ -1,7 +1,7 @@
 # Array methods and callback functions
 _Callbacks functions and array methods can confuse some people when starting their journey as a developer. So let's reinforce our knowledge on Array methods and callbacks functions by breaking things down and going over some examples._
 
-![]()
+![](./DALL·E%202024-12-21%2021.48.55%20-%20An%20ultra-simple%20and%20readable%20infographic%20explaining%20JavaScript%20Array%20methods%20in%20English.%20Each%20method%20(push,%20pop,%20map,%20filter,%20find)%20is%20displayed%20in%20a%20.webp)
 **`Callback functions`**
 
 
